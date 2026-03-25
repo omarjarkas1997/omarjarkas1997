@@ -1,25 +1,27 @@
-## Hey, I'm Omar
+### Omar Jarkas
 
-PhD candidate in confidential computing at the University of Queensland.
+**Kernel security researcher. PhD candidate. Startup founder.**
 
-My research focuses on integrity measurement — how you verify that
-software is what it claims to be, at the lowest level the hardware
-will let you. Trusted execution environments, eBPF, kernel-level
-attestation.
+I spend my days between two worlds: academic research in confidential computing at the University of Queensland, and building trusted infrastructure for AI workloads at [GuardCloud](https://github.com/Guardennes).
 
-I'm also a co-founder at [Guardennes](https://github.com/Guardennes),
-where we're building infrastructure for trusted AI workloads.
+My PhD focuses on integrity measurement — verifying that software is what it claims to be at the hardware level. Recently, I've been applying that thinking to a new problem: AI agents that write and execute their own code at runtime.
 
-### What I work with
-- eBPF / Linux kernel security
-- Trusted execution environments (confidential computing)
-- Formal verification (Dafny, smart contracts)
-- Go, TypeScript, Python, Rust, C
+---
 
-### Contributor to
-- [CNCF Confidential Containers](https://github.com/confidential-containers) — guest-components, keylime
-- [OWASP](https://owasp.org) — agentic AI security research
+**Currently working on:**
+- Runtime integrity measurement for AI agents (eBPF, Linux kernel)
+- Policy-as-code for agent behavioral boundaries
+- Trusted execution environments for confidential workloads
 
-### Get in touch
-- [LinkedIn](https://www.linkedin.com/in/omar-jarkas-021314176/)
-- [X / Twitter](https://x.com/OmarJarkas13)
+**Background:**
+- Contributor to [CNCF Confidential Containers](https://github.com/confidential-containers)
+- Formal verification of smart contracts (Dafny, F*)
+- Previously: blockchain security, container security research
+
+**Tech:** Go · Python · TypeScript · Rust · C · eBPF · Dafny
+
+---
+
+[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarjarkas1997&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/omarjarkas1997)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarjarkas1997&layout=compact&theme=dark&hide_border=true)](https://github.com/omarjarkas1997)
